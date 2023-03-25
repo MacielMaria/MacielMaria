@@ -1,7 +1,7 @@
 ## Olá 👋
 
 ## Me chamo Maria Eduarda Maciel
-#Ela/Dela
+Ela/Dela
 <ul>
   <li>Tenho 18 anos</li>
   <li>Moro em Sapiranga, RS</li>
@@ -9,11 +9,19 @@
   <li>Inglês Avançado</li>
 </ul>
 
-#Estou aprendendo:
+##Estou aprendendo:
 <ul>
   <li>JavaScript</li>
   <li>PHP</li>
   <li>HTML e CSS</li>
+</ul>
+
+##Extras e Hobbies:
+<ul>
+  <li>Fiz um intercâmbio para o Canadá</li>
+  <li>Adoro ler e escrever</li>
+  <li>Pretendo trabalhar como programadora</li>
+ 
 </ul>
 <!--
 **MacielMaria/MacielMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
