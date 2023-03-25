@@ -1,5 +1,12 @@
-### Hi there 👋
+### Olá 👋
 
+Me chamo Maria Eduarda Maciel
+
+<ul>
+  <li>*Tenho 18 anos</li>
+  <li>*Moro em Sapiranga, RS</li>
+  <li>terceiro item</li>
+</ul>
 <!--
 **MacielMaria/MacielMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
