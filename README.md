@@ -9,14 +9,14 @@ Ela/Dela
   <li>Inglês Avançado</li>
 </ul>
 
-##Estou aprendendo:
+## Estou aprendendo:
 <ul>
   <li>JavaScript</li>
   <li>PHP</li>
   <li>HTML e CSS</li>
 </ul>
 
-##Extras e Hobbies:
+## Extras e Hobbies:
 <ul>
   <li>Fiz um intercâmbio para o Canadá</li>
   <li>Adoro ler e escrever</li>
