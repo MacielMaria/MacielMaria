@@ -12,8 +12,10 @@ Ela/Dela
 ## Estou aprendendo:
 <ul>
   <li>JavaScript</li>
-  <li>PHP</li>
+  <li>Python</li>
   <li>HTML e CSS</li>
+  <li>React</li>
+  
 </ul>
 
 ## Extras e Hobbies:
